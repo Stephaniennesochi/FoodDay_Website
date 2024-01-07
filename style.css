@@ -1,0 +1,52 @@
+body{
+    background-color: lightgreen;
+}
+h4{
+    color: green;
+    font-size: 130%;
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+    display: flexbox;
+    padding: 24px;
+    color: black;
+    font-size: 150%;
+    font-weight: 700;
+    position: relative;
+    left: 850px;
+}
+img{
+    float: right;
+    margin-top: 4%;
+    height: 582px;
+    width: 755px;
+
+}
+p{
+    font-size: 368%;
+    font-weight: 900;
+}
+.paint{
+    color: green;
+    font-size: 350%;
+    font-weight: 900;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    border-radius: 10%;
+    width: 140px; height: 50px;
+    background-color: green;
+    font-weight: 800;
+    cursor: pointer;
+    border: none;
+    transition: 0.2s;
+}
+button:hover{
+    background-color: darkslategrey;
+}
+b{
+    color: green;
+}
